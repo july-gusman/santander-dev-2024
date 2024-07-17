@@ -1,6 +1,6 @@
 # Santander Bootcamp criando uma API.
 
-Java RESTful API criada para a Santander Dev Week.
+Java RESTful API.
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
